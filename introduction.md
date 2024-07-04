@@ -1,6 +1,7 @@
 # Wei Zhang
 
 - **E-mail:** zhangwei@hotmail.com
+- **LinkedIn:** [czhangwei](https://www.linkedin.com/in/czhangwei/)
 
 ## Professional Summary
 Seasoned cybersecurity leader with 20+ years of experience in security and application development, seeking a technical-centric role to leverage my expertise in designing, building, and securing resilient software. I have successfully managed organizational information security systems, implementing robust controls for enterprises and small/medium-sized companies. My expertise includes governance, risk assessment, access control, data protection, security architecture, system integration, secure software development, and vulnerability management.
