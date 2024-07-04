@@ -54,8 +54,8 @@ Responsible for defining Citibank’s global security strategy, cloud security a
 
 Directed an information security officer team, conducting security reviews, assessing the security impact of application changes, and identifying and preventing vulnerabilities for 40+ web applications. Covered 200+ projects yearly.
 
-- Innovated a new structured collaboration working mode for the security review procedure to enforce adherence to Citibank’s security policies and standards across diverse software development methodologies. The innovative working model improved productivity by 15% and reduced the number of vulnerabilities by 5%.
-
+- Innovated a new structured collaboration working mode for the security review procedure to enforce adherence to Citibank’s security policies and standards.
+- Improved productivity by 15% and reduced the number of vulnerabilities by 5%.
 
 ### Solution Architect | CITIBANK | New York (Mar 2010 - Apr 2013 )
 
