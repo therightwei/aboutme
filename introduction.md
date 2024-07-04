@@ -4,7 +4,7 @@
 - **LinkedIn:** [czhangwei](https://www.linkedin.com/in/czhangwei/)
 
 ## Professional Summary
-Seasoned cybersecurity leader with 20+ years of experience in security and application development, seeking a technical-centric leadership role to leverage my expertise in designing, building, and securing resilient software. I have successfully managed organizational information security systems, implementing robust controls for enterprises and small/medium-sized companies. My expertise includes governance, risk assessment, access control, data protection, security architecture, system integration, secure software development, and vulnerability management.
+Seasoned cybersecurity leader with 20+ years of experience in security and application development, seeking a technical-centric leadership role to leverage my expertise in designing, building, and securing resilient software. I have successfully managed organizational information security systems, implementing robust controls for companies from startup to enterprise. My expertise includes governance, risk assessment, access control, data protection, security architecture, system integration, secure software development, and vulnerability management.
 
 ## Skills
 
@@ -35,25 +35,25 @@ Responsible for safeguarding all business initiatives and SecDevOps by establish
 
 Responsible for defining Citibank’s global security strategy, roadmap, and standards and cultivating standardized application security designs and integrations for Citibank applications in different countries.
 
-- Reviewed, created, and updated enterprise application security frameworks, cloud security architecture, and standards to ensure robust security resilience and consistency. Implemented best practices and aligned frameworks with industry standards, significantly enhancing organizational security posture and mitigating risks across diverse technological environments.
-- Played a pivotal role in critical projects by evaluating risks of cloud-based infrastructures, applications, and services, and delivering robust, secure application designs. Collaborated with engineering teams to identify and implement security measures, mitigating gaps and weaknesses and achieving zero data breaches.
-- Conducted research and published various security positions against new technologies, for example, passwordless authentication and quantum computing. Advised business partners and stakeholders on best practices, potential risks, and security considerations, helped them make risk-based decisions, and gained their support for security initiatives.
+- Reviewed, created, and updated enterprise application security frameworks, cloud security architecture, and standards to ensure robust security resilience and consistency. Implemented best practices and aligned frameworks with industry standards. Significantly enhanced organizational security posture across diverse technological environments and resulted in zero security audit findings.
+- Played a pivotal role in critical projects by evaluating risks of cloud-based infrastructures, applications, and services, and delivering robust, secure application designs. Collaborated with engineering teams to identify and implement security measures and mitigate gaps and weaknesses. Achieved zero data breaches during my service time.
+- Conducted research and published various security positions against new technologies, for example, passwordless authentication and quantum computing. Advised business partners and stakeholders on best practices, potential risks, and security considerations, helped them make risk-based decisions, and gained their support for security innovations and enhancements.
  
 ### Technical Information Security Officer | CITIBANK | New York (Apr 2013 - Nov 2017)
 
 Directed an information security officer team, conducting security reviews, assessing the security impact of application changes, and identifying and preventing vulnerabilities for 40+ web applications. Covered 200+ projects yearly.
 
-- Innovated a new structured collaboration working mode for the security review procedure to enforce adherence to Citibank’s security policies and standards across diverse software development methodologies. Improved team productivity and prevented numerous severe vulnerabilities from entering production environments.
+- Innovated a new structured collaboration working mode for the security review procedure to enforce adherence to Citibank’s security policies and standards across diverse software development methodologies. The innovative working model improved productivity by 15% and reduced the number of vulnerabilities by 5%.
 
 ### Solution Architect | CITIBANK | New York (Mar 2010 - Apr 2013 )
 
 Played a pivotal role in helping businesses build robust application features to achieve their objectives,  and enhance user online experiences.
 
-- Played a pivotal role in design strategies to merge Citibank’s banking website with the credit card website by migrating tens of millions of customers from the credit card website to the banking website and consolidating user data. This multi-year multi-phase project eliminated the customer pain point from logging different websites and managing duplicated profile data, provided seamless user experiences for online banking, and maintained Citibank’s #1 rating for online banking.
+- Played a pivotal role in design strategies to merge Citibank’s banking website with the credit card website by migrating tens of millions of customers from the credit card website to the banking website and consolidating user data. This multi-year multi-phase project eliminated the customer pain point from logging different websites and managing duplicated profile data, provided seamless user experiences for online banking, and extended Citibank’s #1 online banking rating for additional years.
 
 ### Development Lead | CITIBANK | New York (May 2007 - Mar 2010)
 
-Led a development team with about 25 members from onshore and offshore, designed and delivered various mission-critical business projects, and enabled Citibank Online to be ranked as the #1 banking site by Forrester for multiple years.
+Led a development team with about 25 members from onshore and offshore, designed and delivered various mission-critical business projects, and enabled Citibank Online to be ranked as the #1 banking site by Forrester.
 
 ### Lead Engineer and Manager | INTELLIGRATED | Cincinnati, Ohio (Apr 2004 - May 2007)
 
@@ -61,7 +61,7 @@ Revamped and reconstructed a legacy platform to empower sales engineers in swift
 
 ### Senior Developer | THOMSON LEARNING | Cincinnati, Ohio (Jun 2000 - Apr 2004)
 
-Developed Thomson Learning’s (now Cengage’s) enterprise e-commerce platforms to sell textbooks and learning resources to K-12 to higher education students and for professional development using Perl and Java, largely boosted Thomson Learning’s market share against competitors.
+Expanded Thomson Learning’s (now Cengage’s) enterprise e-commerce platform selling textbooks and learning resources online to K-12 to higher education students and for professional development using Perl and Java. Boosted Thomson Learning’s market share by tripling the number of publishers on the platform.
 
 ## Education and Certificates
 
