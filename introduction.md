@@ -30,7 +30,7 @@ Managed all aspects of cybersecurity across organizations, IT, secure software d
 
 - Formulated security strategies and implemented comprehensive information security management systems including policies, standards, procedures, and controls.
 - Enabled the company to meet the stringent security assessments and audits based on financial industry standards and sign up for several multi-million dollar contracts.
-- Assessed,identified and mitigated gaps in existing processes, systems, software, and infrastructure leveraging a combination of technical enhancement, physical controls, and procedural enhancements.
+- Assessed, identified and mitigated gaps in existing processes, systems, software, and infrastructure leveraging a combination of technical enhancement, physical controls, and procedural enhancements.
 - Achieved an increased overall security posture and 100% eliminated medium-level higher security findings from client security assessment reports.
 - Evaluated and selected third-party security products, services, and technologies to enhance security management, eliminating unreliable vendors, replacing insufficient products with more robust ones, onboarding new services, and resulting in an improvement in protection measures and optimized security management.
 
@@ -45,7 +45,7 @@ Responsible for safeguarding all business initiatives and SecDevOps by establish
 
 Responsible for defining Citibank’s global security strategy, cloud security architecture, and standards and cultivating standardized application security designs and integrations for Citibank applications in different countries.
 
-- Resulted in zero security audit findings and zero data breaches by implementing best practices and aligned frameworks with industry standards and enhancing organizational security posture across diverse technological environments.
+- Achieved zero security audit findings and zero data breaches by implementing best practices and aligned frameworks with industry standards and enhancing organizational security posture across diverse technological environments.
 - Played a pivotal role in evaluating cloud infrastructures, applications, and services, and delivered robust, secure application designs.
 - Conducted research and published various security positions against new technologies, for example, passwordless authentication and quantum computing.
 - By evaluating global threat intelligence and emerging technologies, advised business partners and senior management on best practices, potential risks, and security recommendations, helped them make risk-based decisions, and gained their support for security innovations and enhancements. 
@@ -65,10 +65,10 @@ Played a pivotal role in design strategies to merge Citibank’s banking website
 
 ### Development Lead | CITIBANK | New York (May 2007 - Mar 2010)
 
-Led a development team with about 25 members from onshore and offshore, designed and delivered multi-year project to rewrite and migrate Citibank Online application from the legacy platform to J2EE based platform. 
+Led a development team with about 25 members from onshore and offshore, designed and delivered a multi-year project to rewrite and migrate the Citibank Online application from the legacy platform to a J2EE-based platform. 
 
 - Enabled Citibank Online to be ranked as the #1 banking site by Forrester.
-- Improved software flexibility and scalability, accelerated development cycles and surpassed business performance targets. 
+- Improved software flexibility and scalability, accelerated development cycles, and surpassed business performance targets. 
 
 ### Lead Engineer and Manager | INTELLIGRATED | Cincinnati, Ohio (Apr 2004 - May 2007)
 
