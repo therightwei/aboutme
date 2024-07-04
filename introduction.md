@@ -3,8 +3,8 @@
 - **E-mail:** zhangwei@hotmail.com
 - **LinkedIn:** [czhangwei](https://www.linkedin.com/in/czhangwei/)
 
-## Professional Summary
-Seasoned cybersecurity leader with 20+ years of experience in security and application development, seeking a technical-centric leadership role to leverage my expertise in designing, building, and securing resilient software. I have successfully managed organizational information security systems, implementing robust controls for companies from startup to enterprise. My expertise includes governance, risk assessment, access control, data protection, security architecture, system integration, secure software development, and vulnerability management.
+## Summary and Objectives
+Seasoned cybersecurity leader with 20+ years of experience in security and application development. Seeking a Director of Security or Security Architect role to design and implement robust security frameworks, protect organizational assets from evolving cyber threats, and ensure compliance with industry standards. Expertise in governance, risk assessment, access control, data protection, security architecture, secure software development, and vulnerability management. Proven track record managing information security systems across startups to enterprises, providing strategic vision, leadership, and eliminating risks.
 
 ## Skills
 
