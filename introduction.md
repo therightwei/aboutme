@@ -5,7 +5,7 @@
 
 ## Objective
 
-Seeking a Director of Security or Security Architect role to design and implement robust security frameworks, protect organizational assets from evolving cyber threats, and ensure compliance with regulations and industry standards.
+Seeking a Security Manager or Security Architect role to design and implement robust security frameworks, protect organizational assets from evolving cyber threats, and ensure compliance with regulations and industry standards.
 
 ## Qualifications
 
